@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BibilothequeMath", "BibilothequeMath.vbproj", "{C14DE6C0-2357-45D1-9C5B-B16B802D54DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C14DE6C0-2357-45D1-9C5B-B16B802D54DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14DE6C0-2357-45D1-9C5B-B16B802D54DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14DE6C0-2357-45D1-9C5B-B16B802D54DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14DE6C0-2357-45D1-9C5B-B16B802D54DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DACAE7C5-6B03-4DF1-8C8D-E8723FF2FA4D}
+	EndGlobalSection
+EndGlobal
